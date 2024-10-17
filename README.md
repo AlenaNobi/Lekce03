@@ -1,0 +1,2 @@
+# Lekce03
+Python
